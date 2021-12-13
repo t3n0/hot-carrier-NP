@@ -1,0 +1,36 @@
+{
+    "deltar": 0.1, 
+    "material": "cacca", 
+    "R0": [
+        1.0, 
+        2.0, 
+        3.0
+    ], 
+    "R1": 40.0, 
+    "esamples": 1000, 
+    "density": 10.0, 
+    "photon": [
+        [
+            2.0, 
+            4.0, 
+            10
+        ], 
+        [
+            4.0, 
+            6.0, 
+            40
+        ]
+    ], 
+    "deltapot": 0.01, 
+    "elph": 0.01, 
+    "V0": -10.0, 
+    "deltaef": 0.01, 
+    "flag": "ciaone", 
+    "medium": "water", 
+    "Ef": -4.5, 
+    "medium_path": "/path/to/dielectric/medium.txt", 
+    "brd": 0.01, 
+    "efield": 0.0001, 
+    "dielectric": "/path/to/dielectric/material.txt", 
+    "phot_mult": 2.0
+}

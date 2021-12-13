@@ -1,0 +1,21 @@
+{
+    "deltar": "auto", 
+    "Ef": -4.63, 
+    "R0": [2.0], 
+    "R1": [20.0], 
+    "density": 58.56, 
+    "material": "silver", 
+    "elph": 0.0047, 
+    "V0": -10.0,
+    "flag": "r2_vacuum", 
+    "medium_path": "./dielectric/vacuum.txt", 
+	"medium": "vacuum",
+    "photon": [[3.0,4.0,10]], 
+	"phot_mult": 2.0, 
+    "deltaef": 0.01, 
+    "deltapot": 0.01, 
+    "brd": 0.05, 
+    "efield": 8.68e-4, 
+    "dielectric": "./dielectric/Ag.txt", 
+    "esamples": 4000
+}
